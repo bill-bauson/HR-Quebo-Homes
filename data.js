@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-lacy-and-schafer-homes",
-      "name": "Lacy and Schafer homes",
+      "name": "Lacy and Schafer homes - Nov 2025",
       "levels": [
         {
           "tileSize": 256,
